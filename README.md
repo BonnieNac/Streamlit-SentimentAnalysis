@@ -11,3 +11,5 @@ In order to test the app:
   - Go into folder 
   - Download the dependencies : >> pip install -r requirements.txt 
   - Run the app : >> streamlit run app.py
+
+Warning: the loaded dataset must have ";" separators
