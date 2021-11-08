@@ -12,4 +12,4 @@ In order to test the app:
   - Download the dependencies : >> pip install -r requirements.txt 
   - Run the app : >> streamlit run app.py
 
-Warning: the loaded dataset must have ";" separators
+Warning: the loaded dataset must have ";" separators and in CSV format.
