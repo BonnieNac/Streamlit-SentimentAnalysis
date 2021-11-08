@@ -8,5 +8,6 @@ Each model has been implemented with prefixed parameters. Moreover, only Bag of 
 In order to test the app: 
 - Download the folder
 - Open your terminal : 
+  - Go into folder 
   - Download the dependencies : >> pip install -r requirements.txt 
   - Run the app : >> streamlit run app.py
